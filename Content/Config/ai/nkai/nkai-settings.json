@@ -1,0 +1,31 @@
+{
+	"pawn" : {
+		"allowObjectGraph": false,
+		"pathfinderBucketsCount" : 1,
+		"pathfinderBucketSize" : 32
+	},
+
+	"knight" : {
+		"allowObjectGraph": false,
+		"pathfinderBucketsCount" : 1,
+		"pathfinderBucketSize" : 32
+	},
+
+	"rook" : {
+		"allowObjectGraph": false,
+		"pathfinderBucketsCount" : 1,
+		"pathfinderBucketSize" : 32
+	},
+
+	"queen" : {
+		"allowObjectGraph": false,
+		"pathfinderBucketsCount" : 1,
+		"pathfinderBucketSize" : 32
+	},
+
+	"king" : {
+		"allowObjectGraph": false,
+		"pathfinderBucketsCount" : 1,
+		"pathfinderBucketSize" : 32
+	}
+}

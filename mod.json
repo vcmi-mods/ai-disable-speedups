@@ -1,0 +1,10 @@
+{
+	"name" : "AI - disable speedups",
+	"description" : "This mod disables AI speedups with potential side effects, making AI play somewhat better at the cost of notably longer turn times.",
+	"version" : "1.0",
+	"author" : "VCMI Team",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"contact" : "https://vcmi.eu/",
+	"modType" : "AI"
+}
